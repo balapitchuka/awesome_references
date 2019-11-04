@@ -1,2 +1,3 @@
-# awesome_references
-references for various topics 
+## Visual Studio Code
+
+1. https://burkeholland.gitbook.io/vs-code-can-do-that/  
