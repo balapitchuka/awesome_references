@@ -1,4 +1,5 @@
 # Awesome References
+> This repo consists of best articles/posts taken from various tutorials/courses/web browsing.
 
 ## Visual Studio Code
 
