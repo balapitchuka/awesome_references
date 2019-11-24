@@ -1,21 +1,39 @@
 # Awesome References
 > This repo consists of best articles/posts taken from various tutorials/courses/web browsing.
 
+## Table of Contents
 **Programming Languages**
+  - Java
+  - Python
+  - C++
+**Web Development**
+  - HTML
+  - CSS
+  - Javascript
+[Blog Posts](#blog-post)
+[IDE(Integrated Development Environment)](#ide)
+  
 
-## Visual Studio Code
-  - [VSC tutorial (customizations included)](https://burkeholland.gitbook.io/vs-code-can-do-that/)
 
-2. https://github.com/burkeholland/workshop-vs-code-can-do-that (git repo for above blog)
+
+
+
+
+
 
 
 ## Resources for Build Websites
 1. http://codingheroes.io/resources/
 
 
-## Blog posts and programming articles
+## Blog Posts
+ - [codementor(posts from experienced developers)](https://www.codementor.io/)
+ -
 
-1. https://www.codementor.io/
+## IDE<a name="ide"></a>
+
+### Visual Studio Code
+  - [VSC tutorial (customizations included)](https://burkeholland.gitbook.io/vs-code-can-do-that/)
+  - [ github repo for above tutorial](https://github.com/burkeholland/workshop-vs-code-can-do-that)
 
 
-**Web Development**
