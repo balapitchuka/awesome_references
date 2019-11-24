@@ -2,16 +2,18 @@
 > This repo consists of best articles/posts taken from various tutorials/courses/web browsing.
 
 ## Table of Contents
-**Programming Languages**
+- **Programming Languages**
   - Java
   - Python
   - C++
-**Web Development**
+  
+- **Web Development**
   - HTML
   - CSS
   - Javascript
-[Blog Posts](#blog-post)
-[IDE(Integrated Development Environment)](#ide)
+  
+- [Blog Posts](#blog-post)
+- [IDE(Integrated Development Environment)](#ide)
   
 
 
@@ -33,7 +35,7 @@
 ## IDE<a name="ide"></a>
 
 ### Visual Studio Code
-  - [VSC tutorial (customizations included)](https://burkeholland.gitbook.io/vs-code-can-do-that/)
+  - [VSC tutorial (customizations included)](https://burkeholland.gitbook.io/vs-code-can-do-that/)  - taken from frontend masters
   - [ github repo for above tutorial](https://github.com/burkeholland/workshop-vs-code-can-do-that)
 
 
