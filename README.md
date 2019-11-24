@@ -30,7 +30,7 @@
 
 
 ## Blog Posts<a name="blog-post"></a>
- - [codementor(posts from experienced developers)](https://www.codementor.io/)
+ - [codementor(posts from experienced developers)](https://www.codementor.io/community)
  - 
 
 ## IDE<a name="ide"></a>
