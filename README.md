@@ -37,6 +37,6 @@
 
 ### Visual Studio Code
   - [VSC tutorial (customizations included)](https://burkeholland.gitbook.io/vs-code-can-do-that/)  - taken from frontend masters
-  - [ github repo for above tutorial](https://github.com/burkeholland/workshop-vs-code-can-do-that)
+      - [ github repo for above tutorial](https://github.com/burkeholland/workshop-vs-code-can-do-that)
 
 
