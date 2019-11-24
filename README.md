@@ -11,6 +11,7 @@
   - HTML
   - CSS
   - Javascript
+  - Tools for Webdevelopment
   
 - [Blog Posts](#blog-post)
 - [IDE(Integrated Development Environment)](#ide)
@@ -28,9 +29,9 @@
 1. http://codingheroes.io/resources/
 
 
-## Blog Posts
+## Blog Posts<a name="blog-post"></a>
  - [codementor(posts from experienced developers)](https://www.codementor.io/)
- -
+ - 
 
 ## IDE<a name="ide"></a>
 
