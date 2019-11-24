@@ -1,9 +1,11 @@
 # Awesome References
 > This repo consists of best articles/posts taken from various tutorials/courses/web browsing.
 
-## Visual Studio Code
+**Programming Languages**
 
-1. https://burkeholland.gitbook.io/vs-code-can-do-that/
+## Visual Studio Code
+  - [VSC tutorial (customizations included)(https://burkeholland.gitbook.io/vs-code-can-do-that/)
+
 2. https://github.com/burkeholland/workshop-vs-code-can-do-that (git repo for above blog)
 
 
@@ -14,3 +16,6 @@
 ## Blog posts and programming articles
 
 1. https://www.codementor.io/
+
+
+**Web Development**
