@@ -43,4 +43,6 @@
   - [VSC tutorial (customizations included)](https://burkeholland.gitbook.io/vs-code-can-do-that/)  - taken from frontend masters
       - [ github repo for above tutorial](https://github.com/burkeholland/workshop-vs-code-can-do-that)
 
+### Online Code Editor:
+  - [JS playground](https://stephengrider.github.io/JSPlaygrounds/)  - taken from course ES6 Javascript: The complete developer's guide
 
