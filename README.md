@@ -44,5 +44,6 @@
       - [ github repo for above tutorial](https://github.com/burkeholland/workshop-vs-code-can-do-that)
 
 ### Online Code Editor:
-  - [JS playground](https://stephengrider.github.io/JSPlaygrounds/)  - taken from course ES6 Javascript: The complete developer's guide
+  - [JS playground](https://stephengrider.github.io/JSPlaygrounds/)  - Javascript only
+  - [Repl(instant IDE to learn, build](https://repl.it/) 
 
