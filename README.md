@@ -1,5 +1,5 @@
 # Awesome References
-> This repo consists of best articles/posts taken from various tutorials/courses/web browsing.
+> This repo consists of best articles/posts taken from various tutorials/courses/online searching.
 
 ## Table of Contents
 - **Programming Languages**
