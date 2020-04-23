@@ -3,5 +3,5 @@
 
 ### Online References
 - [realpython](https://realpython.com/)
-  -- tutorials on core python, oops, django,
+  - tutorials on core python, oops, web developement etc
 
