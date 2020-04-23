@@ -4,7 +4,7 @@
 ## Table of Contents
 - **Programming Languages**
   - [Java](#java)
-  - [Python](#python)
+  - [Python](python_references.md)
   - [C++](#c++)
   
 - **Web Development**
