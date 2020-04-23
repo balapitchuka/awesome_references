@@ -3,9 +3,9 @@
 
 ## Table of Contents
 - **Programming Languages**
-  - Java(#java)
-  - Python(#python)
-  - C++(#c++)
+  - [Java](#java)
+  - [Python](#python)
+  - [C++](#c++)
   
 - **Web Development**
   - HTML
