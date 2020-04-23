@@ -1,11 +1,11 @@
 # Awesome References
-> This repo consists of best articles/posts taken from various tutorials/courses/online searching.
+> This repo consists of articles/posts/online material taken from various tutorials/courses/online searching.
 
 ## Table of Contents
 - **Programming Languages**
-  - Java
-  - Python
-  - C++
+  - Java(#java)
+  - Python(#python)
+  - C++(#c++)
   
 - **Web Development**
   - HTML
@@ -23,11 +23,11 @@
 
 
 
-## Java
+## Java<a name="java"></a>
 
-## Python
+## Python<a name="python"></a>
 
-## C++
+## C++<a name="c++"></a>
 
 ## Resources for Build Websites
 1. http://codingheroes.io/resources/
