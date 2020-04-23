@@ -1,10 +1,34 @@
-## References
+# Python References
+# Table Of Contents
+1. [ python. ](#python)
+2. [ django. ](#django)
 
+<a name="python"></a>
+# Python
 
 ### Online References
 - [realpython](https://realpython.com/)
   - tutorials on core python, oops, web developement etc
+
+
+### Books
+- Automate the boring stuff
+- Python cookbook by David Beazley and Brian
+- Effective python, 59 ways of writing better python
+- Python tricks, A buffet of awesome python features.
+- Mastering object oriented python, By Steven F. Lott
+
+### Video Tutorials
+- 10 real world applications using python (udemy)
+
+
+
+
  
 ### code repositories
 -
+
+
+<a name="Django"></a>
+# Django
 
