@@ -29,6 +29,10 @@
 -
 
 
-<a name="Django"></a>
+<a name="django"></a>
 # Django
+
+### Books
+1. Mastering django core by Nigel George.
+
 
