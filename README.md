@@ -6,6 +6,7 @@
   - [Java](#java)
   - [Python](python_references.md)
   - [C++](#c++)
+  - [Go](go_references.md)
   
 - **Web Development**
   - HTML
@@ -16,18 +17,6 @@
 - [Blog Posts](#blog-post)
    - [IDE(Integrated Development Environment)](#ide)
   
-
-
-
-
-
-
-
-## Java<a name="java"></a>
-
-## Python<a name="python"></a>
-
-## C++<a name="c++"></a>
 
 ## Resources for Build Websites
 1. http://codingheroes.io/resources/
