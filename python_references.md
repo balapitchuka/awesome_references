@@ -31,6 +31,10 @@
 <a name="django"></a>
 # Django
 
+### Online References
+- [CBV(Class Based Views) Hierarchy](http://ccbv.co.uk/)
+  - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
+
 ### Books
 1. Mastering django core by Nigel George.
 
