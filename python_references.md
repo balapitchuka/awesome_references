@@ -1,8 +1,8 @@
 # Python Related References
 
 # Table Of Contents
-1. [ Python. ](#python)
-2. [ Django. ](#django)
+1. [ Python ](#python)
+2. [ Django ](#django)
 
 <a name="python"></a>
 # Python
