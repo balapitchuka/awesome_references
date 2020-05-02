@@ -1,3 +1,5 @@
+# Python Related References
+
 # Table Of Contents
 1. [ Python. ](#python)
 2. [ Django. ](#django)
@@ -32,8 +34,11 @@
 # Django
 
 ### Online References
-- [CBV(Class Based Views) Hierarchy](http://ccbv.co.uk/)
+- [CBV(Class Based Views) Hierarchy View](http://ccbv.co.uk/)
   - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
+- [Mixin Inheritance ](https://www.reddit.com/r/django/comments/5hsl4n/how_the_order_of_mixin_inheritance_works/)
+  - How the order of mixin inheritance works
+
 
 ### Books
 1. Mastering django core by Nigel George.
