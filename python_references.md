@@ -40,6 +40,8 @@
   - How the order of mixin inheritance works
 - [Django Querysets](https://medium.com/better-programming/understanding-django-database-querysets-and-its-optimizations-1765cb9c36e5)
   - Deep dive into QuerySet’s evaluation and caching with examples
+- [Transaction Atomic With Django](https://medium.com/@shivanikakrecha/transaction-atomic-in-django-87b787ead793)
+  - Signifance of transaction atomic in django and django default autocommit behaviour
 
 
 ### Books
