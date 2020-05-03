@@ -38,6 +38,8 @@
   - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
 - [Mixin Inheritance ](https://www.reddit.com/r/django/comments/5hsl4n/how_the_order_of_mixin_inheritance_works/)
   - How the order of mixin inheritance works
+- [Django Querysets](https://medium.com/better-programming/understanding-django-database-querysets-and-its-optimizations-1765cb9c36e5)
+  - Deep dive into QuerySet’s evaluation and caching with examples
 
 
 ### Books
