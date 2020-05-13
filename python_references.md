@@ -9,13 +9,15 @@
 
 ### Online References
 - [realpython](https://realpython.com/)
-  - tutorials on core python, oops, web developement etc
+  - Tutorials on core python, oops, web developement etc
+- [Object-Oriented Programming in Python](https://python-textbok.readthedocs.io/en/1.0/)
+  - Core Python, Classes, Testing, GUI Programming, Useful modules in standard library
 
 
 ### Books
 - Automate the boring stuff
 - Python cookbook by David Beazley and Brian
-- Effective python, 59 ways of writing better python
+- Effective python,Object-Oriented Programming in Python 59 ways of writing better python
 - Python tricks, A buffet of awesome python features.
 - Mastering object oriented python, By Steven F. Lott
 
