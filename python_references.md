@@ -48,5 +48,6 @@
 
 ### Books
 1. Mastering django core by Nigel George.
-
+2. Django for beginners by William Vincent. 
+3. Django for API's by William Vincent. 
 
