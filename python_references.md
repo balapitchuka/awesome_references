@@ -58,4 +58,6 @@
   - Classy Django REST Framework.Detailed descriptions, with full methods and attributes,
 
 
-
+### Books
+- Django RESTful Web Services By Gaston C. Hillar
+  - Design, build and test RESTful web services with the Django framework and Python 
