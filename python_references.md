@@ -51,3 +51,11 @@
 2. Django for beginners by William Vincent. 
 3. Django for API's by William Vincent. 
 
+# Django Rest
+
+### Online References
+- [CBV Hierarchy View](http://www.cdrf.co/)
+  - Classy Django REST Framework.Detailed descriptions, with full methods and attributes,
+
+
+
