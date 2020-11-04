@@ -34,5 +34,8 @@
 
 ### Online Code Editor:
   - [JS playground](https://stephengrider.github.io/JSPlaygrounds/)  - Javascript only
-  - [Repl(instant IDE to learn, build](https://repl.it/) 
+  - [Repl(instant IDE to learn, build](https://repl.it/)
+
+### CheatSheets
+  - [Devhints - All programming languages](https://devhints.io/)
 
