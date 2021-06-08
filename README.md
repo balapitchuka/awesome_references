@@ -1,6 +1,11 @@
 # Awesome References
 > This repo consists of articles/posts/online material taken from various tutorials/courses/online searching.
 
+## External References
+- [Official Awesome](https://github.com/sindresorhus/awesome)
+
+
+
 ## Table of Contents
 - **Programming Languages**
   - [Java](#java)
