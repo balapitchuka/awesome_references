@@ -3,6 +3,7 @@
 ## Table Of Contents
 1. [ Python ](#python)
 2. [ Django ](#django)
+3. [FastAPI](#fastapi)
 
 <a name="python"></a>
 # Python
@@ -61,3 +62,18 @@
 ### Books
 - Django RESTful Web Services By Gaston C. Hillar
   - Design, build and test RESTful web services with the Django framework and Python 
+
+
+<a name="fastapi"></a>
+## FastAPI
+
+
+### Online References
+- [FastAPI Official Documentation](https://fastapi.tiangolo.com/)
+- [FastAPI Awesome References Github Repo](https://github.com/mjhea0/awesome-fastapi)
+
+
+### Books
+None
+
+
