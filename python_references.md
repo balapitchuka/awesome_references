@@ -1,6 +1,6 @@
 # Python Related References
 
-# Table Of Contents
+## Table Of Contents
 1. [ Python ](#python)
 2. [ Django ](#django)
 
@@ -33,7 +33,7 @@
 
 
 <a name="django"></a>
-# Django
+## Django
 
 ### Online References
 - [CBV(Class Based Views) Hierarchy View](http://ccbv.co.uk/)
