@@ -2,4 +2,4 @@
 
 
 Clean code
-- [clean code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
+- [There’s No Such Thing as Clean Code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
