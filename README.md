@@ -45,3 +45,6 @@
 ### CheatSheets
   - [Devhints - All programming languages](https://devhints.io/)
 
+## Tools
+  - [Digital Ocean Developer Tools like nginx config generator](https://www.digitalocean.com/community/tools)
+
