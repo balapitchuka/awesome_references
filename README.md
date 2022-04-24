@@ -44,6 +44,7 @@
 
 ### CheatSheets
   - [Devhints - All programming languages](https://devhints.io/)
+  - [A collection of helpful DevOps cheat sheets](https://github.com/lwindolf/lzone-cheat-sheets)
 
 ## Tools
   - [Digital Ocean Developer Tools like nginx config generator](https://www.digitalocean.com/community/tools)
